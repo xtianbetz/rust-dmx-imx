@@ -1,4 +1,4 @@
-# DMX for i.MX6 using rust-dmx
+# DMX for i.MX6 using the Rust 'dmx' crate
 
 ## Cross Compiling on Your PC
 

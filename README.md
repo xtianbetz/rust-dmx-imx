@@ -1,7 +1,7 @@
 # DMX for i.MX6 using the Rust 'dmx' crate
 
-The example code in this repository will change basic DMX light between Red, Green,
-and Blue.
+The code in src/main.rs changes a basic DMX-controlled light
+between Red, Green, and Blue.
 
 ## Cross Compiling on Your PC
 
